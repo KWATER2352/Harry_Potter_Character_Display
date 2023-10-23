@@ -46,7 +46,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-This process was challenging but super rewarding. I loved getting to combine my passion for app-making with my childhood book series. I used the https://hp-api.onrender.com/api/characters API.
+This process was challenging but super rewarding. I loved getting to combine my passion for app-making with my childhood book series. I used the Harry Potter API (https://hp-api.onrender.com/api/characters).
 ## License
 
 Copyright **2023** **Kristen Waterford**
