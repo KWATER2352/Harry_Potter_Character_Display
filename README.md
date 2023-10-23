@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/ktELjW3.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='![image](https://github.com/KWATER2352/Harry_Potter_Character_Display/assets/123219300/195471b9-3e95-4f35-a000-45ddff3657b8)' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
