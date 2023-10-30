@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customPotterStyle" parent="@style/Base.Theme.HarryPotterCharacterDisplay">
+        <item name="colorPrimary">@color/potterGreen</item>
+    </style>
+</resources>
